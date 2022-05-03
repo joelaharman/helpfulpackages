@@ -32,3 +32,8 @@ Download [here](https://github.com/joelaharman/helpfulpackages/raw/main/OVRInter
 The UIWindows package provides some simple scripts which allow you to refer to window scripts via static functions.
 
 Download [here](https://github.com/joelaharman/helpfulpackages/raw/main/UIWindows.unitypackage).
+
+# ConsoleLog
+The ConsoleLog package provides a debug console for creating developer functions and administrative controls.
+
+Download [here](https://github.com/joelaharman/helpfulpackages/raw/main/ConsoleLog.unitypackage).
